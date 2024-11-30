@@ -5,7 +5,7 @@ import re
 
 @st.cache_resource
 def load_model():
-    return SentenceTransformer("multi-qa-mpnet-base-dot-v1")
+    return SentenceTransformer("multi-qa-MiniLM-L6-cos-v1")
 
 model = load_model()
 
