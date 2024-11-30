@@ -10,19 +10,21 @@ Link: [https://as05-larissa.streamlit.app/](https://as05-larissa.streamlit.app/)
 
    ```
    python3 -m venv as05
+   ```
+   ```
    source as05/bin/activate
    ```
 
 1. Instale as bibliotecas
 
    ```
-   $ pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 2. Execute o programa
 
    ```
-   $ streamlit run streamlit_app.py
+   streamlit run streamlit_app.py
    ```
 
 
