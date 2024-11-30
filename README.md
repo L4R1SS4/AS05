@@ -1,8 +1,6 @@
 # AS05 - Assistente Conversacional
 
-Nome: Larissa Valadares
-
-Link: [https://as05-larissa.streamlit.app/](https://as05-larissa.streamlit.app/)
+Este projeto implementa um assistente conversacional que responde perguntas baseadas no conteúdo de documentos enviados. Utiliza o modelo **multi-qa-MiniLM-L6-cos-v1** para processar textos, gerar embeddings, e encontrar os trechos mais relevantes como resposta. O modelo dispensa o uso de chaves de API ou custos financeiros, funcionando localmente.
 
 ### Instruções para execução local
 
@@ -24,3 +22,7 @@ Link: [https://as05-larissa.streamlit.app/](https://as05-larissa.streamlit.app/)
    ```
    $ streamlit run streamlit_app.py
    ```
+
+Nome: Larissa Valadares Silqueira
+
+Link: [https://as05-larissa.streamlit.app/](https://as05-larissa.streamlit.app/)
