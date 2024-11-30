@@ -1,18 +1,23 @@
-# 📄 Document question answering template
+# AS05 - Assistente Conversacional
 
-A simple Streamlit app that answers questions about an uploaded document via OpenAI's GPT-3.5.
+Nome: Larissa Valadares
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-question-answering-template.streamlit.app/)
+### Instruções para execução local
 
-### How to run it on your own machine
+0. Criação e inicialização de ambiente virtual no Linux (opcional)
 
-1. Install the requirements
+   ```
+   python3 -m venv as05
+   source as05/bin/activate
+   ```
+
+1. Instale as bibliotecas
 
    ```
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Execute o programa
 
    ```
    $ streamlit run streamlit_app.py
