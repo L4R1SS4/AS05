@@ -2,6 +2,8 @@
 
 Este projeto implementa um assistente conversacional que responde perguntas baseadas no conteúdo de documentos enviados. Utiliza o modelo **multi-qa-MiniLM-L6-cos-v1** para processar textos, gerar embeddings, e encontrar os trechos mais relevantes como resposta. O modelo dispensa o uso de chaves de API ou custos financeiros, funcionando localmente.
 
+Link: [https://as05-larissa.streamlit.app/](https://as05-larissa.streamlit.app/)
+
 ### Instruções para execução local
 
 0. Criação e inicialização de ambiente virtual no Linux (opcional)
@@ -23,6 +25,5 @@ Este projeto implementa um assistente conversacional que responde perguntas base
    $ streamlit run streamlit_app.py
    ```
 
-Nome: Larissa Valadares Silqueira
 
-Link: [https://as05-larissa.streamlit.app/](https://as05-larissa.streamlit.app/)
+Nome: Larissa Valadares Silqueira
