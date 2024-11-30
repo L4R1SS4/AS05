@@ -15,17 +15,26 @@ Link: [https://as05-larissa.streamlit.app/](https://as05-larissa.streamlit.app/)
    source as05/bin/activate
    ```
 
-1. Instale as bibliotecas
+1. Entre na pasta do projeto
+
+   ```
+   cd AS05
+   ```
+
+2. Instale as bibliotecas
 
    ```
    pip install -r requirements.txt
    ```
 
-2. Execute o programa
+3. Execute o programa
 
    ```
    streamlit run streamlit_app.py
    ```
 
+### Captura de Tela do Programa em Funcionamento
+
+<img src="/Exemplo/captura.png" alt="Captura de Tela" />
 
 Nome: Larissa Valadares Silqueira
